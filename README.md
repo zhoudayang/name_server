@@ -86,3 +86,6 @@ OK\r\n\r\n
 3. NOT EXISTED
 4. EMPTY
 5. INVALID COMMAND
+
+## todo
+add pub sub pattern
